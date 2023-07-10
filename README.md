@@ -41,7 +41,16 @@
 *  *BootCamps* - [DIO: Digital Innovation One](https://web.dio.me/).
 
 #
+
+## *Contato*  
+<div>  
+  <a href = "https://wa.me/message/SNWARS4M2CRNN1"><img src="https://img.shields.io/badge/-WhatsApp-%7CFC00?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/marcos12kalel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcos-vieira-kalel-92509052" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+</div>
+
+#
 
  <div align="center" width="100%">
    <p> "O maior erro Humano é,</p>
