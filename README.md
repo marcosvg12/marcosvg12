@@ -8,7 +8,7 @@
   
   A procura de uma oportunidade na área de TI e em programação, estágio e júnior.
   
-  Tenho 37 anos, sou natural de Salvador/BA, adoro aprender coisas novas e amo viajar.
+  Sou natural de Salvador/BA, adoro aprender coisas novas e amo viajar.
   
   Focado nos estudos, aprendendo lógica, linguagens e frameworks Etc:..
   
