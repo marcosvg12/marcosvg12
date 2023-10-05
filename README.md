@@ -22,9 +22,9 @@
 
 ##  *Conhecimentos*
   
-- [ ] HTML5 basic  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="16"/>
-- [ ] CSS3 basic  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="16"/>
-- [ ] PYTHON Basic  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/>
+- [ ] HTML5  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="16"/>
+- [ ] CSS3  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="16"/>
+- [ ] PYTHON  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/>
 - [x] Técnico em Informática  <img src="https://github.com/marcosvg12/kalel12/assets/45484070/3148ac5c-8b1f-424c-b212-a7477ac4b7c4" width="18"/> 
 
 <div align="center" width="100%">
